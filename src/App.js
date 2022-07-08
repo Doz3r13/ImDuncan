@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "../src/assets/KWNE.gif";
 import "./App.css";
 
 function App() {
@@ -10,14 +10,6 @@ function App() {
           I am, In fact, Duncan. And this page is a work in progress. Be gentle,
           I'm learning.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
